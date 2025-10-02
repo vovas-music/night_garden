@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.07/macOS-arm64" 1722432909
+<REAPER_PROJECT 0.1 "7.07/macOS-arm64" 1722433528
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,8 +16,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 144
-  ZOOM 1.75588153400786 0 0
+  CURSOR 0
+  ZOOM 6.07525605109205 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -98,7 +98,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -116,6 +116,19 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 430 793 381
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "Till/Auto-Wideness v1.0" ""
+        -18 -6 1 250 0 100 0 0 0 20 20000 0 - 50 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B5867D08-90AB-3040-A6F6-48AF0CEECD62}
+      WAK 0 0
+    >
     <ITEM
       POSITION 0.43822162240997
       SNAPOFFS 0
